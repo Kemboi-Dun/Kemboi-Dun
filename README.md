@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kemboi-Dun
-- 👀 I’m interested in Web Design and Front End
-- 🌱 I’m currently learning React, Blender, Spline...
+- 👀 I’m a web designer and Front End web developer.
+- 🌱 I’m familiar with React, Vue, Blender, Spline...
 - 📫 How to reach me gdan5703@gmail.com
 
 <!---
