@@ -4,7 +4,7 @@
 </hr>
 
 ## 📖 About me
-* 💻 A Full stack developer
+* 💻 A Full stack Web developer
 - 📫 How to reach me: **gdan5703@gmail.com**
 - My **[Portfolio](https://kemboi-71e4e.web.app/)** Website.
 
