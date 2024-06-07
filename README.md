@@ -6,7 +6,7 @@
 ## 📖 About me
 * 💻 A Full stack Web developer
 - 📫 How to reach me: **gdan5703@gmail.com**
-- My **[Portfolio](https://kemboi-duncan.web.app/)** Website.
+- My **[Portfolio](https://kemboi-dun-portfolio.vercel.app/)** Website.
 
 
 </hr>
