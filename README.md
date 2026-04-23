@@ -4,7 +4,7 @@
 
 </hr>
 
-My **[Portfolio](https://kemboi-dun-portfolio.vercel.app/)** 
+**[Portfolio](https://kemboi-dun-portfolio.vercel.app/)** 
 
 
 </hr>
