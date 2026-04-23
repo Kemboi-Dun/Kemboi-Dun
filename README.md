@@ -1,12 +1,10 @@
 <!-- <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="developer GIF"/> -->
 <!--- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,Im Dun.</h1> --->
-<img src="https://i.pinimg.com/originals/b5/16/91/b51691cf6acf43da753a03e29f7aeffd.gif" alt="developer GIF"/>
+<!-- <img src="https://i.pinimg.com/originals/b5/16/91/b51691cf6acf43da753a03e29f7aeffd.gif" alt="developer GIF"/> -->
 
 </hr>
 
-## 📖 About me
-* 💻 A Full stack Web developer
-- My **[Portfolio](https://kemboi-dun-portfolio.vercel.app/)** Website.
+My **[Portfolio](https://kemboi-dun-portfolio.vercel.app/)** 
 
 
 </hr>
